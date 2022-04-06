@@ -18,6 +18,7 @@
     "gatsby": "^4.10.3",
     "gatsby-plugin-image": "^2.10.1",
     "gatsby-plugin-sharp": "^4.10.2",
+    "gatsby-plugin-robots-txt": "^1.7.0",
     "gatsby-source-filesystem": "^4.10.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
