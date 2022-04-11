@@ -22,7 +22,7 @@ export default BlogPage
 
 export const query = graphql`
   query {
-    allFile(filter: {sourceInstanceName: {eq: "blog"}}) {
+    allFile {
       nodes {
         name
       }
