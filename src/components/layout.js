@@ -20,7 +20,7 @@ const Layout = ({ pageTitle, children }) => {
     }
   `)
 
-  const pageNames = ["Home", "About", "Blog"];
+  const pageNames = ["Home", "About", "Blog", "Articles"];
   const getPageLinkFromName = (pageName) => {
     if ("Home" === pageName) {
       return "/";
